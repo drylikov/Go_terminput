@@ -1,4 +1,3 @@
-
 module github.com/drylikov/go_terminput
 
 go 1.12
